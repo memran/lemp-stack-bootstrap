@@ -1,5 +1,3 @@
-### **📜 `README.md` (GitHub README File)**  
-```md
 # 🚀 Nginx + PHP-FPM + PHP CLI + MySQL + Vue.js (Dockerized)
 
 This project sets up a **PHP API with Nginx, PHP-FPM, PHP CLI, and MySQL**, alongside a **Vue.js frontend**, using **Docker Compose**.  
