@@ -2,6 +2,62 @@
 
 This project sets up a **PHP API with Nginx, PHP-FPM, PHP CLI, and MySQL**, alongside a **Vue.js frontend**, using **Docker Compose**.  
 
+
+### **📌 Project Description**  
+
+This project is a **Dockerized full-stack web application** integrating **Nginx, PHP-FPM, PHP CLI, MySQL, and Vue.js**. It provides a seamless development and deployment environment for building modern web applications with a **PHP backend** and a **Vue.js frontend**.  
+
+With **Docker Compose**, the entire setup is automated, making it easy to start development without worrying about server configurations.  
+
+---
+
+### **🌟 Features**  
+- **Nginx** – Serves Vue.js frontend & routes API requests  
+- **PHP-FPM** – Processes backend PHP requests efficiently  
+- **PHP CLI** – Dedicated for running PHP commands & scripts  
+- **MySQL** – Stores application data with persistent storage  
+- **Vue.js** – Dynamic and responsive frontend  
+- **Docker Compose** – Simplifies multi-container management  
+
+---
+
+### **🎯 Use Cases**  
+- Developing RESTful APIs with PHP  
+- Single Page Applications (SPA) with Vue.js  
+- Scalable and containerized web applications  
+- Quick setup for PHP & JavaScript projects  
+
+---
+
+### **🚀 Quick Setup**  
+1️⃣ Clone the repository  
+```sh
+git clone <repository-url>
+cd <project-folder>
+```  
+2️⃣ Configure environment variables  
+```sh
+cp .env.example .env
+```  
+3️⃣ Start the application  
+```sh
+docker-compose up -d --build
+```  
+
+Visit **http://localhost/** for the frontend  
+API available at **http://localhost/api/**  
+
+---
+
+### **📌 Why Use This Project?**  
+✅ Fully **containerized** environment  
+✅ **Easy to deploy** anywhere  
+✅ Modern **tech stack**  
+✅ Scalable & **production-ready**  
+
+🚀 **Start building today!** 🚀  
+
+
 ---
 
 ## 📂 Project Structure
