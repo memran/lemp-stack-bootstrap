@@ -5,7 +5,7 @@ This project sets up a **PHP API with Nginx, PHP-FPM, PHP CLI, and MySQL**, alon
 ---
 
 ## 📂 Project Structure
-
+```
 📂 project-root/ 
 ├── 📂 app/ # PHP API (Backend) │ 
     ├── index.php # Main API entry point │ 
@@ -20,7 +20,7 @@ This project sets up a **PHP API with Nginx, PHP-FPM, PHP CLI, and MySQL**, alon
 ├── 📄 docker-compose.yml # Docker Compose file 
 ├── 📄 .env # Environment variables 
 ├── 📄 README.md # Project documentation
-
+```
 
 
 
