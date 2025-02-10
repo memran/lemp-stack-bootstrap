@@ -12,22 +12,23 @@ This project sets up a **PHP API with Nginx, PHP-FPM, PHP CLI, and MySQL**, alon
 
 ## 📂 Project Structure
 
-```
-.
-├── app/               # PHP API (Backend)
-│   ├── index.php      # Main API entry point
-│   ├── config.php     # Database connection
-│   └── ...           
-├── frontend/          # Vue.js Frontend
-│   ├── src/          
-│   ├── dist/          # Build output
-│   └── ...
-├── nginx/
-│   ├── default.conf   # Nginx configuration
-├── docker-compose.yml # Docker Compose file
-├── .env               # Environment variables
-├── README.md          # Project documentation
-```
+📂 project-root/ 
+├── 📂 app/ # PHP API (Backend) │ 
+    ├── index.php # Main API entry point │ 
+    ├── config.php # Database connection │ 
+    └── ... 
+├── 📂 frontend/ # Vue.js Frontend │ 
+    ├── 📂 src/ # Vue components & assets │ 
+    ├── 📂 dist/ # Production build output │ 
+    └── ... 
+├── 📂 nginx/ # Nginx Configurations │ 
+    ├── default.conf # Nginx server config 
+├── 📄 docker-compose.yml # Docker Compose file 
+├── 📄 .env # Environment variables 
+├── 📄 README.md # Project documentation
+
+
+
 
 ---
 
