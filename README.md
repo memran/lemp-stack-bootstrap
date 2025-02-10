@@ -133,11 +133,3 @@ Developed by **Mohammad Emran**
 ```
 
 ---
-
-### **💡 Features of This README:**
-✅ **Clear Project Structure**  
-✅ **Step-by-Step Setup Instructions**  
-✅ **Useful Docker & API Commands**  
-✅ **Frontend & Backend Overview**  
-
-Let me know if you need **custom modifications!** 🚀
