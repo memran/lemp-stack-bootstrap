@@ -1,7 +1,3 @@
-Here’s a **`README.md`** file for your project, covering **Nginx, PHP-FPM, PHP CLI, MySQL, and Vue.js** using Docker.  
-
----
-
 ### **📜 `README.md` (GitHub README File)**  
 ```md
 # 🚀 Nginx + PHP-FPM + PHP CLI + MySQL + Vue.js (Dockerized)
